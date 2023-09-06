@@ -1,4 +1,4 @@
-# Solarized Light Color Scheme
+# Solarized Light Color Scheme for Mailspring
 
 Colors are from https://ethanschoonover.com/solarized/
 
